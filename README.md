@@ -8,7 +8,7 @@ Recommended repository name: `netcafe-seat-watch`
 
 ## Domain candidates
 
-First candidate: `netcafeseat.jp`
+Confirmed domain: `netcafeseat.jp`
 
 Other candidates:
 
