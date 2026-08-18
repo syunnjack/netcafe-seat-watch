@@ -1,4 +1,4 @@
 User-agent: *
 Allow: /
 
-Sitemap: https://netcafe-seat-watch.vercel.app/sitemap.xml
+Sitemap: https://netcafeseat.jp/sitemap.xml
