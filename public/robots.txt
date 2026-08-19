@@ -1,4 +1,2 @@
 User-agent: *
-Allow: /
-
-Sitemap: https://netcafeseat.jp/sitemap.xml
+Disallow: /

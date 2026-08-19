@@ -1,7 +1,4 @@
-# Netcafe Seat Watch
+# netcafeseat.jp
 
-空席、シャワー、鍵付き個室、料金、女性専用エリアを通知し、店舗送客とクーポンへつなげる。
-
-Notification channels: LINE, X, email, Slack
-Revenue: 店舗送客, クーポン, 掲載課金, 宿泊代替送客, 広告
-Primary categories: 空席, シャワー, 鍵付き個室, 女性向け, 料金
+このサイトは準備中です。掲載できる情報が揃うまで、内容の公開を見合わせています。
+現時点で参照できるデータはありません。
